@@ -6,7 +6,7 @@ Welcome to **UtilitiesApplications**, a repository filled with **useful Python t
 
 ## 📝 **Apps in this Repository**
 
-### 1. **NotePad (In Python) 📝**
+### 1. **ProPad (NotePad In Python) 📝**
 A minimalist **Notepad** clone built with Python! It allows you to easily **create, edit**, and **save text files** — perfect for quick notes or simple text editing.
 
 - **Features:**
